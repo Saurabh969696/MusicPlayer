@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
     AudioManager audioManager;
 
     // Playlist and song index
-    int[] playlist = {R.raw.song1, R.raw.song2, R.raw.song3};
+    int[] playlist = {R.raw.song1, R.raw.song2, R.raw.song3,R.raw.song4};
     int currentSongIndex = 0;
 
     @Override
